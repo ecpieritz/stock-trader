@@ -11,7 +11,7 @@
 ---
 
 ## 📖 About
-<p>Project created from the classes of the Vue.js.</p>
+<p>Project created from the classes of the Vue.js course.</p>
 
 ---
 
