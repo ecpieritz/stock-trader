@@ -22,6 +22,7 @@
 - Vue.js
 - VueX
 - VueRouter
+- Vuetify
 
 ---
 
