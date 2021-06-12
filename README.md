@@ -29,7 +29,7 @@
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/stock-trader.git
+git clone https://github.com/ecpieritz/stock-trader.git
 
 #### Enter directory
 `cd stock-trader`
