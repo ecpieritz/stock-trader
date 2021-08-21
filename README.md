@@ -54,4 +54,4 @@ git clone https://github.com/ecpieritz/stock-trader.git
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ---
-Developed with 💙 by Emilyn C. Pieritz
+<p align = "right">Developed with 💙 by Emilyn C. Pieritz</p>
